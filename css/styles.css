@@ -1,0 +1,319 @@
+.body{
+  background-color: #ecfbfc;
+}
+
+.first-cont{
+  background-color: skyblue;
+  font-family: Cambria, serif;
+  /*height: 150px;*/
+  margin: auto 30%;
+  width: 1017.63px;
+}
+
+.first-cont-heading{
+  padding-top: 30px;
+}
+
+.pix{
+  float: left;
+  padding: 40px 100px 0 20px;
+}
+
+.job-title{
+  color: #204051;
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.name{
+  color: #204051;
+  font-size: 2.5rem;
+  margin-top: 0;
+  padding-bottom: 20px;
+}
+
+.second-cont{
+  font-family: Georgia, serif;
+  font-size: 0.9rem;
+  margin: auto 30% auto 30%;
+  width: 1017.63px;
+  background-color: white;
+}
+
+.second-cont-pers-info{
+  margin-bottom: 40px;
+}
+
+.email{
+  padding-left: 50px;
+}
+
+.website{
+  padding-left: 45px;
+}
+
+.tel-email{
+  margin-bottom: 0;
+}
+
+.dob-website{
+  margin-top: 5px;
+}
+
+.third-cont{
+  font-family: Georgia, serif;
+  font-size: 0.9rem;
+  margin: auto 30% auto 30%;
+  position: relative;
+  width: 1017.63px;
+  height: 1180px;
+  background-color: white;
+}
+
+.hr-pers-profile{
+  border: solid black;
+  border-width: 1px;
+  left: 20px;
+  position: absolute;
+  width: 200px;
+}
+
+.pers-profile-descriptn-cont{
+  left: 20px;
+  line-height: 20px;
+  position: absolute;
+  top: auto;
+  width: 200px;
+}
+
+.pers-profile{
+  font-family: Cambria, serif;
+  font-size: 1.25rem
+}
+
+.hr-relevant-skills{
+  border: solid black;
+  border-width: 1px;
+  left: 20px;
+  position: absolute;
+  top: 220px;
+  width: 200px;
+}
+
+.relevant-skills-cont{
+  left: 20px;
+  line-height: 20px;
+  position: absolute;
+  top: 220px;
+  width: 200px;
+}
+
+.relevant-skills{
+  font-family: Cambria, serif;
+  font-size: 1.25rem
+}
+
+.relevant-skills-list{
+  list-style-position: outside;
+  padding-left: 18px;
+}
+
+.hr-other-skills{
+  border: solid black;
+  border-width: 1px;
+  margin-top: 40px;
+}
+
+.other-skills{
+  font-family: Cambria, serif;
+  font-size: 1.25rem;
+  margin-top: 10px;
+}
+
+.other-skills-list{
+  list-style-position: outside;
+  padding-left: 18px;
+}
+
+.hr-certifications{
+  border: solid black;
+  border-width: 1px;
+  margin-top: 40px
+}
+
+.certifications{
+  font-family: Cambria, serif;
+  font-size: 1.25rem;
+  margin-top: 10px;
+}
+
+.certifications-list{
+  list-style-position: outside;
+  padding-left: 18px;
+}
+
+.hr-language-skills{
+  border: solid black;
+  border-width: 1px;
+  margin-top: 40px
+}
+
+.language-skills{
+  font-family: Cambria, serif;
+  font-size: 1.25rem;
+  margin-top: 10px;
+}
+
+.language-skills-list{
+  list-style-position: outside;
+  padding-left: 18px;
+}
+
+.hr-work-exp{
+  border: solid black;
+  border-width: 1px;
+  left: 320px;
+  position: absolute;
+  width: 697.63px;
+}
+
+.work-exp-edu-descriptn-cont{
+  left: 320px;
+  line-height: 20px;
+  position: absolute;
+  top: auto;
+}
+
+.work-exp{
+  font-family: Cambria, serif;
+  font-size: 1.25rem;
+}
+
+.work-exp-porsche-title{
+  font-family: Cambria, serif;
+  font-weight: normal;
+  font-size: 1rem;
+}
+
+.work-exp-porsche{
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.work-exp-porsche-list{
+  list-style-position: outside;
+  margin-top: 0;
+  padding-left: 18px;
+}
+
+.work-exp-fleetncosy-title{
+  font-family: Cambria, serif;
+  font-size: 1rem;
+  font-weight: normal;
+  margin-top: 40px;
+}
+
+.work-exp-fleetncosy{
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.work-exp-fleetncosy-list{
+  list-style-position: outside;
+  margin-top: 0;
+  padding-left: 18px;
+}
+
+.hr-education{
+  border: solid black;
+  border-width: 1px;
+  margin-top: 40px
+}
+
+.education{
+  font-family: Cambria, serif;
+  font-size: 1.25rem;
+  margin-top: 10px;
+}
+
+.education-mechatronics{
+  font-family: Cambria, serif;
+  font-size: 1rem;
+}
+
+.education-unisiegen{
+  margin-bottom: 0;
+}
+
+.education-unisiegen-thesis{
+  margin: 0;
+}
+
+.education-unisiegen-list{
+  list-style-position: outside;
+  margin: 0;
+  padding-left: 18px;
+}
+
+.education-unisiegen-emphasis{
+  margin: 0;
+}
+
+.education-unisiegen-thesis-link{
+  margin-top: 0;
+}
+
+.education-civileng{
+  font-family: Cambria, serif;
+  font-size: 1rem;
+  margin-top: 40px;
+}
+
+.education-futo{
+  margin-bottom: 0;
+}
+
+.education-futo-thesis{
+  margin: 0;
+}
+
+.education-futo-list{
+  list-style-position: outside;
+  margin: 0;
+  padding-left: 18px;
+}
+
+.education-wassc{
+  font-family: Cambria, serif;
+  font-size: 1rem;
+  margin-top: 40px;
+}
+
+.education-shs{
+  margin-bottom: 0;
+}
+
+.education-shs-list{
+  list-style-position: outside;
+  margin: 0;
+  padding-left: 18px;
+}
+
+.fourth-cont{
+  color: #204051;
+  font-family: Georgia, serif;
+  font-size: 0.9rem;
+  margin: 20px 30% auto 30%;
+  position: relative;
+  width: 1017.63px;
+  height: 100px;
+  background-color: skyblue;
+}
+
+.footer{
+  left: 320px;
+  line-height: 20px;
+  position: absolute;
+  padding-top: 10px;
+}
